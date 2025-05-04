@@ -1,5 +1,7 @@
 # AnalyseImage
 
+[**Accéder à l'application en ligne**](https://analyseimage.streamlit.app/)  
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://analyseimage.streamlit.app/)
 
 📌 Application Streamlit : Connexion & Recherche Google Lens
